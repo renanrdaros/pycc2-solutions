@@ -22,9 +22,9 @@
 
 ## Exercises
 
-[2-1. Simple Message](./exercises/simple_messsage.py)
+[2-1. Simple Message](./exercises/simple_message.py)
 
-[2-2. Simple Messages](./exercises/simple_messsages.py)
+[2-2. Simple Messages](./exercises/simple_messages.py)
 
 [2-3. Personal Message](./exercises/personal_message.py)
 
