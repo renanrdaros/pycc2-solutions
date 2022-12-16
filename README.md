@@ -4,6 +4,5 @@ These are my solutions to some of the exercises in the book [Python Crash Course
 
 ---
 
-[Chapter 1: Getting Started](./ch01)
-
-[Chapter 2: Variables and Simple Data Types](./ch02)
+- [Chapter 1: Getting Started](./ch01)
+- [Chapter 2: Variables and Simple Data Types](./ch02)
