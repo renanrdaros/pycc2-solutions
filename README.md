@@ -1,6 +1,6 @@
-# Solutions to Python Crash Course 2 Edition
+# Solutions to Python Crash Course 2nd Edition
 
-These are my solutions to some of the exercises in PyCC2. The repo also contains some of the examples presented in the book.
+These are my solutions to some of the exercises in the book [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e). The repo also contains some of the examples presented in the book.
 
 ---
 
