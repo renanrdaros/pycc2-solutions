@@ -2,15 +2,15 @@
 
 ## Examples
 
-- [Hello World](./examples/hello_world.py)
-- [Name](./examples/name.py)
-- [UPPER lower](./examples/upper_lower.py)
-- [Full Name](./examples/full_name.py)
-- [Greeting](./examples/greeting.py)
-- [Whitespaces](./examples/whitespaces.py)
-- [Strip](./examples/strip.py)
-- [Apostrophe](./examples/apostrophe.py)
-- [Comment](./examples/comment.py)
+- [Hello World](./examples/hello_world.py) - show how to use variables
+- [Name](./examples/name.py) - present the method `str.title()`
+- [UPPER lower](./examples/upper_lower.py) - present the methods `str.upper()` and `str.lower()`
+- [Full Name](./examples/full_name.py) - show how to use _f-strings_
+- [Greeting](./examples/greeting.py) - another example of _f-strings_
+- [Whitespaces](./examples/whitespaces.py) - show how to add whitespaces to strings
+- [Strip](./examples/strip.py) - present the `str.*strip()` methods
+- [Apostrophe](./examples/apostrophe.py) - show how to use apostrophes inside strings
+- [Comment](./examples/comment.py) - show how to write a comment
 
 ## Exercises
 
