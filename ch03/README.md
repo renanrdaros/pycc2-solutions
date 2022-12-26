@@ -2,20 +2,20 @@
 
 ## Examples
 
-- [Bicycles](./examples/bicycles.py)
-- [Motorcycles](./examples/motorcycles.py)
-- [List Append](./examples/list_append.py)
-- [List Insert](./examples/list_insert.py)
-- [Delete](./examples/delete.py)
-- [List Pop](./examples/list_pop.py)
-- [List Remove](./examples/list_remove.py)
-- [Cars (Sort)](./examples/cars.py)
-- [Cars Reverse (Sort Reverse)](./examples/cars_reverse.py)
-- [Sorted](./examples/sorted.py)
-- [Sorted Reverse](./examples/sorted_reverse.py)
-- [List Reverse](./examples/list_reverse.py)
-- [Length](./examples/length.py)
-- [Index Error](./examples/index_error.py)
+- [Bicycles](./examples/bicycles.py) - simple example of a list
+- [Motorcycles](./examples/motorcycles.py) - show how to change the value of a list's element
+- [List Append](./examples/list_append.py) - present the method `list.append()`
+- [List Insert](./examples/list_insert.py) - present the method `list.insert()`
+- [Delete](./examples/delete.py) - present the `del` statement
+- [List Pop](./examples/list_pop.py) - present the method `list.pop()`
+- [List Remove](./examples/list_remove.py) - present the method `list.remove()`
+- [Cars (Sort)](./examples/cars.py) - present the method `list.sort()`
+- [Cars Reverse (Sort Reverse)](./examples/cars_reverse.py) - show how to `list.sort()` in the **reverse order**
+- [Sorted](./examples/sorted.py) - present the function `sorted()`
+- [Sorted Reverse](./examples/sorted_reverse.py) - show how to return a **reverse** `sorted()` list
+- [List Reverse](./examples/list_reverse.py) - show how to **reverse the elements** of a list
+- [Length](./examples/length.py) - show how to get the number of items in a list
+- [Index Error](./examples/index_error.py) - show an example of an `IndexError`
 
 ## Exercises
 
