@@ -10,6 +10,7 @@
 - [Whitespaces](./examples/whitespaces.py) - show how to add whitespaces to strings
 - [Strip](./examples/strip.py) - present the `str.*strip()` methods
 - [Apostrophe](./examples/apostrophe.py) - show how to use apostrophes inside strings
+- [Double Quotes](./examples/double_quotes.py) - show how to use double quotes inside strings
 - [Comment](./examples/comment.py) - show how to write a comment
 
 ## Exercises
