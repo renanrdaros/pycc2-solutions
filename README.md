@@ -9,3 +9,4 @@ These are my solutions to some of the exercises in the book [Python Crash Course
 - [Chapter 3: Introducing Lists](./ch03)
 - [Chapter 4: Working with Lists](./ch04)
 - [Chapter 5: `if` Statements](./ch05)
+- [Chapter 6: Dictionaries](./ch06)
