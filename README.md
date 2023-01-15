@@ -1,6 +1,6 @@
 # Solutions to Python Crash Course 2nd Edition
 
-These are my solutions to some of the exercises in the book [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e). The repo also contains some of the examples presented in the book.
+These are my solutions to some of the exercises in the book [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e). The repo also contains code samples that show how to use some Python language features.
 
 ---
 
@@ -10,3 +10,4 @@ These are my solutions to some of the exercises in the book [Python Crash Course
 - [Chapter 4: Working with Lists](./ch04)
 - [Chapter 5: `if` Statements](./ch05)
 - [Chapter 6: Dictionaries](./ch06)
+- [Chapter 7: User Input and `while` Loops](./ch07)
