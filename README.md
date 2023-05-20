@@ -10,4 +10,4 @@ These are my solutions to some of the exercises in the book [Python Crash Course
 - [Chapter 5: `if` Statements](./ch05)
 - [Chapter 6: Dictionaries](./ch06)
 - [Chapter 7: User Input and `while` Loops](./ch07)
-- [Cahpter 8: Functions](./ch08)
+- [Chapter 8: Functions](./ch08)
